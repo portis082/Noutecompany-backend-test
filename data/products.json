@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "type": "diary",
+        "cat": "",
+        "name": "",
+        "description":"",
+        "sale": false
+    },
+    {
+        "id":2,
+        "type": "diary",
+        "cat": "",
+        "name": "",
+        "description":"",
+        "sale": false
+    },
+    {
+        "id":3,
+        "type": "diary",
+        "cat": "",
+        "name": "",
+        "description":"",
+        "sale": false
+    },
+    {
+        "id":4,
+        "type": "diary",
+        "cat": "",
+        "name": "",
+        "description":"",
+        "sale": false
+    }
+]
