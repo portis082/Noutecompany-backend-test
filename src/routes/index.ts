@@ -10,7 +10,7 @@ const router = express.Router();
 
 router.get("/", getItems);
 router.get("/item/:type", getItemsByType);
-router.get("/randomItems", getRandomItems);
+router.get("/randomitems", getRandomItems);
 router.get("/bestsales", getBestSales);
 router.get("/popularity", getPopularityItem);
 router.get("/analysis", analyseUsers);
